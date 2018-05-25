@@ -1,2 +1,2 @@
 # evilJ
-Find common vulnerabilities in browser's extensions
+find common vulnerabilities in browser's extensions
